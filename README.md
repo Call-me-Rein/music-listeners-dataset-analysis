@@ -11,4 +11,5 @@
 
 Для работы кода неоюходимо скачать сам файл датасета, доступный на платформе Kaggle по ссылке:  
 https://www.kaggle.com/datasets/atharvasoundankar/global-music-streaming-trends-and-listener-insights/data
+
 Он должен располагаться в той же директории, что и файл main.py
