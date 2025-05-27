@@ -13,3 +13,5 @@
 https://www.kaggle.com/datasets/atharvasoundankar/global-music-streaming-trends-and-listener-insights/data
 
 Он должен располагаться в той же директории, что и файл main.py
+
+Установка зависимостей осуществляется после загрузки соответствующего файлла командой: pip install -r requirements.txt
